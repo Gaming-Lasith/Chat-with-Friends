@@ -25,14 +25,15 @@ body {
   border-left: 0.1rem solid #ddd;
 }
 
-.ad-box {
+/* .ad-box {
   height: 20vh;
   background: #e9ecef;
   text-align: center;
   padding: 1rem;
   border-radius: 0.75rem;
   font-size: 1rem;
-}
+} */
+
 
 /* WhatsApp button style */
 .btn-outline-whatsapp {
