@@ -1,0 +1,61 @@
+/* General layout */
+body {
+  padding-top: 10vh;
+  font-size: 1rem;
+}
+
+/* Fixed heading size */
+.site-heading {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 4vh;
+  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.1);
+}
+
+/* Main content styling */
+.content-area {
+  min-height: 50vh;
+  padding: 2vw;
+}
+
+/* Sidebar for ads */
+#sidebar {
+  background-color: #f8f9fa;
+  padding: 2vw;
+  border-left: 0.1rem solid #ddd;
+}
+
+.ad-box {
+  height: 20vh;
+  background: #e9ecef;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  font-size: 1rem;
+}
+
+/* WhatsApp button style */
+.btn-outline-whatsapp {
+  color: rgb(37, 211, 102);
+  border: 0.1rem solid rgb(37, 211, 102);
+  border-radius: 0.5rem;
+  background-color: transparent;
+  padding: 0.5em 1.5em;
+}
+.btn-outline-whatsapp:hover {
+  background-color: rgb(37, 211, 102);
+  color: white;
+}
+
+/* Telegram button style */
+.btn-outline-telegram {
+  color: rgb(39, 167, 231);
+  border: 0.1rem solid rgb(39, 167, 231);
+  border-radius: 0.5rem;
+  background-color: transparent;
+  padding: 0.5em 1.5em;
+}
+.btn-outline-telegram:hover {
+  background-color: rgb(39, 167, 231);
+  color: white;
+}
